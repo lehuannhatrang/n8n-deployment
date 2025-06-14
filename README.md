@@ -37,5 +37,6 @@ This will start all the services defined in the `docker-compose.yaml` file in de
 **Accessing n8n Front End**
 
 Once the services are running, you can access the n8n front end via the following link:
-
-https://.....
+```
+https://{SUBDOMAIN}.{DOMAIN_NAME}
+```
